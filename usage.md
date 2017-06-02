@@ -7,7 +7,7 @@
 | `TYPEPR`  | Exclusive ’EXC’ or inclusive ’INC’ production    |                |
 | `TYPINT`  | Switch between QED and QCD process               | `'QED'`        |
 | `NFLUX`   | Intermediate particles flux model                | 15             |
-| `IPROC`   | Process number to generate ’EXC’                 | 11500          |
+| `IPROC`   | Process number to generate (see [here](processes) ) | 11500          |
 | `PBEAM1`  | Type of primary incoming particles               | `E+` (p)       |
 | `PBEAM2`  | Type of primary incoming particles               | `E+` (p)       |
 | `ECMS`    | Centre of mass energy √s (in GeV)                | 14E3           |
