@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 #theme: jekyll-theme-cayman
 title: FPMC
 description: The Forward Physics MC generator
+show_downloads: True
